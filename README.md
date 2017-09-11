@@ -1,7 +1,8 @@
 # CFBadge
 CFBadge是一套角标添加的工具，只需一行代码就可以实现(UIView、UIBarButtonItem、UITabBarItem)角标的添加，可以显示数字，小红点。
 
-![img](https://github.com/cfbm99/CFBadge/raw/master/CFBadge/CFBadgeDemo/source/Simulator%20Screen%20Shot%202017年9月11日%20下午3.30.48.png =150x)
+<img src="https://github.com/cfbm99/CFBadge/raw/master/CFBadge/CFBadgeDemo/source/Simulator%20Screen%20Shot%202017年9月11日%20下午3.30.48.png" width="50%" height="50%" />
+<!--![img](https://github.com/cfbm99/CFBadge/raw/master/CFBadge/CFBadgeDemo/source/Simulator%20Screen%20Shot%202017年9月11日%20下午3.30.48.png =150x)-->
 
 快速集成
 =====
